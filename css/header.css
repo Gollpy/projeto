@@ -1,5 +1,5 @@
 body{
-    background: url(/images/ilustracao/Forma_1.svg);
+    background: url(../images/ilustracao/Forma_1.svg);
     background-color: #3772FF;
     background-size: calc(100%-10px);
 }
