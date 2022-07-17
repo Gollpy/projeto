@@ -1,9 +1,5 @@
 body{
-    background: url(adopet-material/ilustracao/Forma_1.svg) no-repeat;
+    background: url(/adopet-material/ilustracao/Forma_1.svg) no-repeat;
     background-color: #3772FF;
     background-size: calc(100%-10px);
-}
-p{
-    font-size: 500px;
-    color: #6e0000;
 }
