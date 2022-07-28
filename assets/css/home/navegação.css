@@ -12,14 +12,14 @@
 }
 
 .navegacao__ul{
-    padding-right: 190px;
+    padding-right: 250px;
     display: flex;
     align-items: center;
     margin-top: 10%;
 }
 
 .navegacao__li{
-    margin-left: 20%;
+    margin-left: 30%;
 }
 
 .navegacao__img{
