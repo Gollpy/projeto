@@ -1,5 +1,5 @@
 .navegacao{
-    padding: 3%;
+    padding-top: 3%;
 }
 .navegacao__caixa{
     position: relative;
@@ -7,12 +7,12 @@
 }
 
 .navegacao__logo{
-    width:120px;
     position: absolute;
-    left: -190px;
+    left: -290px;
 }
 
 .navegacao__ul{
+    padding-right: 190px;
     display: flex;
     align-items: center;
     margin-top: 10%;
