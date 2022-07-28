@@ -1,0 +1,32 @@
+.navegacao{
+    padding: 3%;
+}
+.navegacao__caixa{
+    position: relative;
+    width: 100%;
+    background-color: blue;
+}
+
+.navegacao__logo{
+    width:120px;
+    position: absolute;
+    left: -190px;
+}
+
+.navegacao__ul{
+    display: flex;
+    align-items: center;
+    margin-top: 10%;
+}
+
+.navegacao__li{
+    margin-left: 20%;
+}
+
+.navegacao__img{
+    width: 1.5rem;
+}
+
+.navegacao__img.mensagens{
+    width: calc(1rem + 0.9rem);
+}

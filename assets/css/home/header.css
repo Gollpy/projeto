@@ -1,44 +1,9 @@
-body{
-    background: url(../../../assets/img/ilustracao/Forma_1.svg) no-repeat;
-    background-color: #3772FF;
+.corpo{background: url(../../../assets/img/ilustracao/Forma_1.svg) no-repeat;
     background-size: 99%;
+    background-color: #3772FF;
 }
-.cabecalho{
+
+.cabacalho{
     width: 100%;
     height: auto;
-}
-.navegacao{
-    height: 100px;
-    position: relative;
-}
-.navegacao__caixa{
-    width: 200px;
-    padding: 10% 0 10% 0;
-    display: flex;
-    top: 20px;
-    justify-content: space-between;
-    position: absolute;
-    top: 9px;
-    left: -120px;
-}
-
-.navegacao__logo{
-    width:120px;
-}
-
-.navegacao__ul{
-    display: flex;
-    align-items: center;
-}
-
-.navegacao__li{
-    margin-left: 60px ;
-}
-
-.navegacao__img{
-    width: 1.5em;
-}
-
-.navegacao__img.mensagens{
-    width: calc(1em + 0.9em);
 }
